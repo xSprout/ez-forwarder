@@ -1,0 +1,361 @@
+index,host,source,sourcetype,"_raw","_time"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:38.049 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099902099938144626","2015-01-29T14:30:38.049-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:38.049 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0014254000000000001","2015-01-29T14:30:38.049-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.3019071747948246","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""RBAC Sessions/sec""
+instance=0
+Value=0.1006357249316082","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces/sec""
+instance=0
+Value=0.1006357249316082","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Average Active Time""
+instance=0
+Value=0.037894700000000003","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Activations/sec""
+instance=0
+Value=0.1006357249316082","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:30:08.089 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.10738180000000001","2015-01-29T14:30:08.089-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:29:38.040 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099952707376504801","2015-01-29T14:29:38.040-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:29:38.040 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.00074019999999999999","2015-01-29T14:29:38.040-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:38.023 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10267462258092172","2015-01-29T14:28:38.023-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:38.023 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0040356000000000003","2015-01-29T14:28:38.023-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.30602167416868598","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""RBAC Sessions/sec""
+instance=0
+Value=0.10200722472289533","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces/sec""
+instance=0
+Value=0.10200722472289533","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Average Active Time""
+instance=0
+Value=0.018024100000000001","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Activations/sec""
+instance=0
+Value=0.10200722472289533","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:28:08.035 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.070309466666666667","2015-01-29T14:28:08.035-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:27:38.145 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.098758742839917077","2015-01-29T14:27:38.145-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:27:38.145 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0027699999999999999","2015-01-29T14:27:38.145-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:26:38.136 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10097003018670701","2015-01-29T14:26:38.136-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:26:38.136 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0018786","2015-01-29T14:26:38.136-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:38.020 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10177828029107366","2015-01-29T14:25:38.020-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:38.020 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0011682000000000001","2015-01-29T14:25:38.020-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.29946326300980963","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""RBAC Sessions/sec""
+instance=0
+Value=0.09982108766993654","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces/sec""
+instance=0
+Value=0.09982108766993654","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Average Active Time""
+instance=0
+Value=0.032947400000000002","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Activations/sec""
+instance=0
+Value=0.09982108766993654","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:25:08.027 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.07956273333333333","2015-01-29T14:25:08.027-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:24:38.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099798674138686538","2015-01-29T14:24:38.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:24:38.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0016865999999999999","2015-01-29T14:24:38.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:23:38.021 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10233946167273564","2015-01-29T14:23:38.021-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:23:38.021 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0025612","2015-01-29T14:23:38.021-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:22:38.041 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099838512204893717","2015-01-29T14:22:38.041-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:22:38.041 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0028105999999999999","2015-01-29T14:22:38.041-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:21:38.024 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10004034126761616","2015-01-29T14:21:38.024-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:21:38.024 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0024724","2015-01-29T14:21:38.024-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:38.026 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099783594329797248","2015-01-29T14:20:38.026-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:38.026 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0013242","2015-01-29T14:20:38.026-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.30685329524997546","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""RBAC Sessions/sec""
+instance=0
+Value=0.10228443174999181","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces/sec""
+instance=0
+Value=0.10228443174999181","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Average Active Time""
+instance=0
+Value=0.061486800000000001","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Activations/sec""
+instance=0
+Value=0.10228443174999181","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:20:08.028 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.10407899999999999","2015-01-29T14:20:08.028-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:19:38.136 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.09886017774031812","2015-01-29T14:19:38.136-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:19:38.136 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0018010000000000001","2015-01-29T14:19:38.136-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:38.058 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.099692788696209539","2015-01-29T14:18:38.058-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:38.058 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.035963200000000001","2015-01-29T14:18:38.058-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.29150479243595595","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""RBAC Sessions/sec""
+instance=0
+Value=0.097168264145318636","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces/sec""
+instance=0
+Value=0.097168264145318636","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Average Active Time""
+instance=0
+Value=0.032412099999999999","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""PowerShell Runspaces - Activations/sec""
+instance=0
+Value=0.097168264145318636","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:18:08.295 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.066008866666666666","2015-01-29T14:18:08.295-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:17:38.046 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10110436193436546","2015-01-29T14:17:38.046-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:17:38.046 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0039356","2015-01-29T14:17:38.046-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:16:38.019 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Activations/sec""
+instance=0
+Value=0.10021518906903226","2015-01-29T14:16:38.019-0800"
+perfmon,TestServer1,"Perfmon:MSExchange_Control_Panel","Perfmon:MSExchange_Control_Panel","01/29/2015 14:16:38.019 -0800
+collection=MSExchange_Control_Panel
+object=""MSExchange Control Panel""
+counter=""Requests - Average Response Time""
+instance=0
+Value=0.0019662","2015-01-29T14:16:38.019-0800"

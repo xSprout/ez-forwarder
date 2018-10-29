@@ -1,0 +1,541 @@
+index,host,source,sourcetype,"_raw","_time"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:35:06.953 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:35:06.953-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:56.921 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:34:56.921-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:46.971 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:34:46.971-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:36.940 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:34:36.940-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:26.924 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:34:26.924-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:16.941 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:34:16.941-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:34:06.939 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:34:06.939-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:56.926 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=10","2015-01-29T14:33:56.926-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:46.955 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:33:46.955-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:36.941 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:33:36.941-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:26.925 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:33:26.925-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:16.958 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:33:16.958-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:33:06.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:33:06.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:56.934 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:32:56.934-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:46.937 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:32:46.937-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:36.945 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:32:36.945-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:26.909 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:32:26.909-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:16.966 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:32:16.966-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:32:06.949 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:32:06.949-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:56.954 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:31:56.954-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:46.957 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:31:46.957-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:36.936 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:31:36.936-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:26.977 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:31:26.977-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:16.987 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:31:16.987-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:31:06.939 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:31:06.939-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:56.932 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:30:56.932-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:46.927 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:30:46.927-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:36.943 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:30:36.943-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:26.938 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:30:26.938-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:16.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:30:16.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:30:06.948 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:30:06.948-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:56.935 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:29:56.935-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:46.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:29:46.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:36.946 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:29:36.946-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:26.927 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:29:26.927-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:16.941 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:29:16.941-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:29:06.942 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:29:06.942-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:56.931 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:28:56.931-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:46.926 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:28:46.926-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:36.945 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:28:36.945-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:26.914 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:28:26.914-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:16.944 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:28:16.944-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:28:06.925 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:28:06.925-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:56.908 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:27:56.908-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:46.938 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:27:46.938-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:36.930 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:27:36.930-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:26.930 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:27:26.930-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:16.945 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:27:16.945-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:27:06.939 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:27:06.939-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:56.925 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=11","2015-01-29T14:26:56.925-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:46.943 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:26:46.943-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:36.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:26:36.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:26.930 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:26:26.930-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:16.951 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:26:16.951-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:26:06.951 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:26:06.951-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:56.936 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:25:56.936-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:46.928 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:25:46.928-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:36.943 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:25:36.943-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:26.929 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:25:26.929-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:16.954 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:25:16.954-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:25:06.949 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:25:06.949-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:56.930 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:24:56.930-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:46.950 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:24:46.950-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:36.950 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:24:36.950-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:26.935 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=20","2015-01-29T14:24:26.935-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:16.940 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:24:16.940-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:24:06.949 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:24:06.949-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:56.918 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:23:56.918-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:46.927 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:23:46.927-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:36.927 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:23:36.927-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:26.938 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:23:26.938-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:16.943 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:23:16.943-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:23:06.941 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:23:06.941-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:56.928 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:22:56.928-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:46.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:22:46.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:36.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:22:36.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:26.939 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:22:26.939-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:16.953 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=13","2015-01-29T14:22:16.953-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:22:06.952 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:22:06.952-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:56.921 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:21:56.921-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:46.948 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=9","2015-01-29T14:21:46.948-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:36.939 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:21:36.939-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:26.923 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:21:26.923-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:16.955 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:21:16.955-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:21:06.920 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:21:06.920-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:20:56.910 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:20:56.910-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:20:46.947 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=19","2015-01-29T14:20:46.947-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:20:36.933 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:20:36.933-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:20:26.928 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=17","2015-01-29T14:20:26.928-0800"
+perfmon,TestServer1,"Perfmon:ASP_NET","Perfmon:ASP_NET","01/29/2015 14:20:16.944 -0800
+collection=ASP_NET
+object=ASP.NET
+counter=""Requests Current""
+instance=0
+Value=15","2015-01-29T14:20:16.944-0800"

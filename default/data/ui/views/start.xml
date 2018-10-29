@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<view template="ez-forwarder:/templates/start.html" type="html">
+	<label>Configure Forwarder Deployment</label>
+</view>

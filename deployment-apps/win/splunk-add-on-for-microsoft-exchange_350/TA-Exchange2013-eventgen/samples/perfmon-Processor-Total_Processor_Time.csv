@@ -1,0 +1,541 @@
+index,host,source,sourcetype,"_raw","_time"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:56.917 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.5456325433517168","2015-01-29T14:14:56.917-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:46.940 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=5.3690027345696389","2015-01-29T14:14:46.940-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:36.926 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=8.6001224808440853","2015-01-29T14:14:36.926-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:26.942 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=4.2779813107181823","2015-01-29T14:14:26.942-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:16.928 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=16.490039839839199","2015-01-29T14:14:16.928-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:14:06.946 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=4.8872930051105268","2015-01-29T14:14:06.946-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:56.909 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=12.576813496033557","2015-01-29T14:13:56.909-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:46.953 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.5727381920916947","2015-01-29T14:13:46.953-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:36.938 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.8548176178568863","2015-01-29T14:13:36.938-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:26.921 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.0677619380153556","2015-01-29T14:13:26.921-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:16.938 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.4478642940542583","2015-01-29T14:13:16.938-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:13:06.923 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.849292099626167","2015-01-29T14:13:06.923-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:56.909 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.4208166226855954","2015-01-29T14:12:56.909-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:46.925 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.8076192293711277","2015-01-29T14:12:46.925-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:36.937 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.8963332347610726","2015-01-29T14:12:36.937-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:26.921 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.193407577642259","2015-01-29T14:12:26.921-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:16.940 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=25.268489347915413","2015-01-29T14:12:16.940-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:12:06.930 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=26.161270252840829","2015-01-29T14:12:06.930-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:56.916 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.0531839931328686","2015-01-29T14:11:56.916-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:46.947 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.8605181168386951","2015-01-29T14:11:46.947-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:36.930 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.9553277513812981","2015-01-29T14:11:36.930-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:26.932 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=43.359932904660894","2015-01-29T14:11:26.932-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:16.932 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=38.289646002604186","2015-01-29T14:11:16.932-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:11:06.943 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=6.3183425241971181","2015-01-29T14:11:06.943-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:56.927 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=1.643507721590276","2015-01-29T14:10:56.927-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:46.943 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.0783267150448212","2015-01-29T14:10:46.943-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:36.956 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.6970567204684159","2015-01-29T14:10:36.956-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:26.923 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.2580839842365807","2015-01-29T14:10:26.923-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:16.940 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=17.667328948436289","2015-01-29T14:10:16.940-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:10:06.944 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=26.37777721535074","2015-01-29T14:10:06.944-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:56.916 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=7.4650991707310936","2015-01-29T14:09:56.916-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:46.928 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=25.031068062787533","2015-01-29T14:09:46.928-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:36.929 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=8.3679407648972965","2015-01-29T14:09:36.929-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:26.928 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=5.2517866530541912","2015-01-29T14:09:26.928-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:16.943 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=20.947802229407099","2015-01-29T14:09:16.943-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:09:06.946 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=29.65799787083888","2015-01-29T14:09:06.946-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:56.923 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.570951090464324","2015-01-29T14:08:56.923-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:46.964 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=49.946190619656328","2015-01-29T14:08:46.964-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:36.935 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=55.450595226566726","2015-01-29T14:08:36.935-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:26.939 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.9481330433325135","2015-01-29T14:08:26.939-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:16.939 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=7.0739964622388403","2015-01-29T14:08:16.939-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:08:06.951 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=10.662616656312441","2015-01-29T14:08:06.951-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:56.908 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.1299527537479546","2015-01-29T14:07:56.908-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:46.926 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.5341185558343415","2015-01-29T14:07:46.926-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:36.926 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.4918990674002059","2015-01-29T14:07:36.926-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:26.924 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.3245224745784498","2015-01-29T14:07:26.924-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:16.938 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.54817650191388","2015-01-29T14:07:16.938-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:07:06.939 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=8.9138716594971861","2015-01-29T14:07:06.939-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:56.930 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.1063618170613538","2015-01-29T14:06:56.930-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:46.960 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.9261560571755107","2015-01-29T14:06:46.960-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:36.932 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.3974578099926989","2015-01-29T14:06:36.932-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:26.904 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=45.899663353200417","2015-01-29T14:06:26.904-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:16.947 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=54.974305170344394","2015-01-29T14:06:16.947-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:06:06.935 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=29.687943094510004","2015-01-29T14:06:06.935-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:56.907 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.1081737904837694","2015-01-29T14:05:56.907-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:46.939 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.2866788753275524","2015-01-29T14:05:46.939-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:36.925 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.1039180963339796","2015-01-29T14:05:36.925-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:26.911 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.3808925931443348","2015-01-29T14:05:26.911-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:16.944 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=24.411796281405607","2015-01-29T14:05:16.944-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:05:06.928 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=29.814183842784235","2015-01-29T14:05:06.928-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:56.927 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=1.7969194913536546","2015-01-29T14:04:56.927-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:46.939 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.2783483239121392","2015-01-29T14:04:46.939-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:36.935 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=8.285700007508046","2015-01-29T14:04:36.935-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:26.922 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.4040188669794857","2015-01-29T14:04:26.922-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:16.925 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.6040212431381113","2015-01-29T14:04:16.925-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:04:06.945 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=11.312957667866719","2015-01-29T14:04:06.945-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:56.924 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.2609235525439031","2015-01-29T14:03:56.924-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:46.937 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.4383365794689471","2015-01-29T14:03:46.937-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:36.935 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.4906238911330156","2015-01-29T14:03:36.935-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:26.921 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=10.423743167515987","2015-01-29T14:03:26.921-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:16.940 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=25.440583706272225","2015-01-29T14:03:16.940-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:03:06.928 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=29.039881500563979","2015-01-29T14:03:06.928-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:56.942 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.6977755993010555","2015-01-29T14:02:56.942-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:46.930 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.5312985172669444","2015-01-29T14:02:46.930-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:36.946 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.3454722127230774","2015-01-29T14:02:36.946-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:26.948 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.4783240614945856","2015-01-29T14:02:26.948-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:16.934 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=6.721175329394713","2015-01-29T14:02:16.934-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:02:06.967 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=6.869684496473849","2015-01-29T14:02:06.967-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:56.922 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.0255854755473766","2015-01-29T14:01:56.922-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:46.936 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=2.8622111969852759","2015-01-29T14:01:46.936-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:36.951 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.4504646716038923","2015-01-29T14:01:36.951-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:26.950 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=39.06847999569235","2015-01-29T14:01:26.950-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:16.936 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=36.432320401966955","2015-01-29T14:01:16.936-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:01:06.938 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=17.804462741746729","2015-01-29T14:01:06.938-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:56.925 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=3.7744626338957366","2015-01-29T14:00:56.925-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:46.942 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=4.4339783475619292","2015-01-29T14:00:46.942-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:36.944 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=8.0519192327389906","2015-01-29T14:00:36.944-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:26.914 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=33.689540788250085","2015-01-29T14:00:26.914-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:16.947 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=77.688276916665515","2015-01-29T14:00:16.947-0800"
+perfmon,TestServer1,"Perfmon:Total_Processor_Time","Perfmon:Total_Processor_Time","01/29/2015 14:00:06.932 -0800
+collection=Total_Processor_Time
+object=Processor
+counter=""% Processor Time""
+instance=_Total
+Value=20.354350021301915","2015-01-29T14:00:06.932-0800"
