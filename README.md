@@ -44,3 +44,15 @@ Fill out the fields on the app:
 		2. Enter the username that should be used to ssh into the client
 		3. Enter the absolute location of the hostkey on the Search Head/Deployment Server
 		4. Click the button to have the SH/DS ssh into the client and execute the script. Area below should come up with a result.
+
+
+## Serverclasses:
+
+The app comes with preconfigured serverclasses for forwarder deployed using this tool, separated for Windows/*Nix clients. There are also prepackaged TAs in the deployment-apps folder:
+
+* Add-On for Microsoft Active Directory
+* Add-On for Microsft DNS
+* Add-On for Windows Infrastructure (v4.8.4)
+* Add-On for Microsoft Sysmon
+* Add-On for Microsoft Exchange
+* Add-on for Unix and Linux
